@@ -1,5 +1,7 @@
-Irene Sidorova
-26
-1 cat
-600
-
+<?xml version="1.0" encoding="UTF-8" ?> 
+<person>
+  <name>Irene Sidorova</name>
+  <age>26</age>
+  <pet>cat</pet>
+  <salary>600</salary>
+</person>
