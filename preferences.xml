@@ -1,6 +1,8 @@
-Lucky Number Slevin
-Fringe
-Noodles
-Spring
-Sweden
-
+<?xml version="1.0" encoding="UTF-8" ?> 
+<preferences>
+  <movie>Lucky Number Slevin</movie>
+  <series>Fringe</series>
+  <food>Noodles</food>
+  <season>Spring</season>
+  <country>Sweden</country>
+</preferences>
