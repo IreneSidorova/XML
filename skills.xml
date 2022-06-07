@@ -1,8 +1,11 @@
-1. Basic theory, SDLC, STLC
-2. Client-server architecture
-3. HTTP requests
-4. HTTP status codes
-5. Structure of HTTP request and response
-6. JSON, XML, their structure
-7. API testing via Postman, JS, API autotests
+<?xml version="1.0" encoding="UTF-8" ?> 
+<skills>
+<skill>Basic theory, SDLC, STLC</skill>
+<skill>Client-server architecture</skill>
+<skill>HTTP requests</skill>
+<skill>HTTP status codes</skill>
+<skill>Structure of HTTP request and response</skill>
+<skill>JSON, XML, their structure</skill>
+<skill>API testing via Postman, JS, API autotests</skill>
+</skills>
 
